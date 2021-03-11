@@ -3,5 +3,6 @@ A shop robbery script for qbus framework.
 
 ### HOW TO USE 如何使用
 Go to your server.cfg or resources.cfg and type `Start qb-shoprobbery`
+
 进入你的 server.cfg 或者 resources.cfg 然后输入 `Start qb-shoprobbery`
 
