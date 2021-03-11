@@ -1,5 +1,6 @@
 A shop robbery script for qbus framework.
  一个商店抢劫插件用于QB框架。
+ 
  If you found some issues pleas create a issues on github.
 
 ### HOW TO USE 如何使用
